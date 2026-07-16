@@ -27,7 +27,7 @@ Currently, I am gaining hands-on industry experience as an **AIML Intern at iGap
 
 <!-- These are dynamic cards that will display your GitHub activity and top languages automatically! -->
 <p align="left">
-  <!-- Paste your new stats card code here -->
+  <[![Pranjli's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjlipawar506)](https://github.com/anuraghazra/github-readme-stats)>
 </p>
 
 ---
